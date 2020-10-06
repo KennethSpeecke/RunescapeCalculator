@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunescapeCalculators", "RunescapeCalculators\RunescapeCalculators.csproj", "{0687EA4C-2809-4C5A-ADDE-E8FF12C7ACCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunescapeCalcs.Lib", "RunescapeCalcs.Lib\RunescapeCalcs.Lib.csproj", "{84E16851-6507-4328-9B81-A30EB6805B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0687EA4C-2809-4C5A-ADDE-E8FF12C7ACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0687EA4C-2809-4C5A-ADDE-E8FF12C7ACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0687EA4C-2809-4C5A-ADDE-E8FF12C7ACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0687EA4C-2809-4C5A-ADDE-E8FF12C7ACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E16851-6507-4328-9B81-A30EB6805B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E16851-6507-4328-9B81-A30EB6805B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E16851-6507-4328-9B81-A30EB6805B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E16851-6507-4328-9B81-A30EB6805B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {484311F8-E0FE-4BA2-A85D-04192A41E89E}
+	EndGlobalSection
+EndGlobal
